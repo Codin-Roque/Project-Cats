@@ -1,0 +1,83 @@
+form {
+    
+    
+    background-color: #d0650df8;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px 20px;
+    box-shadow: 2px 5px 20px chocolate;
+    border-radius: 5px;
+    font-style: italic;
+    font-size: large;
+        }
+        .form-control label {
+			display: block;
+			margin-bottom: 10px;
+		}
+        .form-control input,
+		.form-control select,
+		.form-control textarea {
+			border: 1px solid #777;
+			border-radius: 2px;
+			font-family: inherit;
+			padding: 10px;
+			display: block;
+			width: 95%;
+		}
+        button {
+			background-color: khaki;
+			border: none;
+			border-radius: 2px;
+			font-family: inherit;
+			font-size: 21px;
+			display: block;
+			width: 100%;
+			margin-top: 50px;
+			margin-bottom: 20px;
+            padding: 1rem;
+            cursor: pointer;
+            color:black;
+		}
+        #INFO{
+            text-align: center;
+            font-family: "Matemasie", sans-serif;
+            font-size: 30px;
+            color:chocolate;
+            background-color:  rgb(241, 241, 221);
+            border:5px solid;
+            text-shadow: 1px 5px rgb(18, 133, 240);
+            /* background-repeat:repeat-x;
+            height:500px; 
+            background-image: url(doooogieinleaves2.webp);    */
+        }
+        h1{
+            text-align: center;
+            text-shadow:1px 5px rgba(214, 202, 179, 0.959);
+            font-family: "Pacifico", cursive;
+            font-size: 75px;
+            font: white;
+
+        }
+        #paw{
+            background-image:url(doginleaves.webp);
+        }
+        nav {
+            background-color: #d0650df8;
+            font-size: 35px;
+        }
+        table,tr,td,th{
+            border: 5px solid black;
+            border-style:double;
+            background-color: rgba(202, 131, 50, 0.986);
+            padding: 5px;
+            box-shadow: 5px 5px yellow;
+    
+            
+           
+           
+        }
+        #Prices{
+            background-image: url(doooogieinleaves2.webp);
+            background-position:unset;
+            
+        }
